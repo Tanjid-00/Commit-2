@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    margin: 10px;
+    padding: 10px;
+    background: seagreen; 
+    max-width: 700px;
+}
+/* h1 {
+    margin: 10px;
+    padding: 10px;
+    background: gray; 
+    min-width: 300px;
+} */
